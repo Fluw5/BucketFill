@@ -1,0 +1,12 @@
+version: '${project.version}'
+api-version: 1.16
+name: BucketFill
+main: dev.fluw.bucketfill.BucketFill
+author: Fluw
+website: https://fluw.dev/
+description: A Bucket Fill Plugin
+depend: [Vault]
+commands:
+  bucket:
+    description: base command
+    aliases: [bf, fillbucket, bucketfill]

@@ -1,0 +1,24 @@
+##################################
+#
+#         Bucket Fill
+#           By: Fluw
+#
+##################################
+
+Version: 1.8
+
+Cost:
+  Milk: 100
+  Water: 500
+  Lava: 2000
+  Puffer: 10000
+  Salmon: 10000
+  Cod: 10000
+  Tropical: 10000
+  PowderedSnow: 75000
+  Axolotl: 500000
+
+No-Permission: "&4You do not have permission to run this command."
+No-Money: "&4You do not have enough money to fill this bucket."
+No-Bucket: "&4You must be holding a bucket to use this command."
+Config-Reloaded: "&aBucket Fill configuration has been reloaded!"
